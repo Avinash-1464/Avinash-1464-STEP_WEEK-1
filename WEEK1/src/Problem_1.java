@@ -79,4 +79,3 @@ public class Problem_1 {
         System.out.println(system.getMostAttempted());
     }
 }
-
